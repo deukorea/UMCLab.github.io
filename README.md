@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to UMCL (Ubiquitous Multimedia Communication Lab.) 
 
-You can use the [editor on GitHub](https://github.com/UMCLab/UMCLab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page describes works performed in UMC Lab. in Dong-eui University. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
